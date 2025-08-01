@@ -1,10 +1,6 @@
-# Movie-Review-Sentiment-Analysis-using-RNN
+# IMDB Sentiment Analysis with PyTorch RNN
 
 This project implements a Simple RNN for sentiment analysis on the IMDB movie reviews dataset using PyTorch, while still utilizing TensorFlow's IMDB dataset for data loading and preprocessing.
-
-# Author
-**Reg.No:** 212222040111
-**Name:** Pandidharan.G.R
 
 ## Project Structure
 
@@ -122,24 +118,24 @@ class SimpleRNNClassifier(nn.Module):
 ## Features
 
 ### Training Features:
-- Early stopping with patience
-- Validation split (20%)
-- GPU/CPU automatic detection
-- Progress bars with tqdm
-- Training history visualization
-- Model checkpointing
+- ✅ Early stopping with patience
+- ✅ Validation split (20%)
+- ✅ GPU/CPU automatic detection
+- ✅ Progress bars with tqdm
+- ✅ Training history visualization
+- ✅ Model checkpointing
 
 ### Prediction Features:
-- Text preprocessing pipeline
-- Confidence scoring
-- Batch prediction support
-- Interactive web interface
+- ✅ Text preprocessing pipeline
+- ✅ Confidence scoring
+- ✅ Batch prediction support
+- ✅ Interactive web interface
 
 ### Data Pipeline:
-- TensorFlow IMDB dataset integration
-- PyTorch tensor conversion
-- Efficient DataLoader usage
-- Proper train/validation/test splits
+- ✅ TensorFlow IMDB dataset integration
+- ✅ PyTorch tensor conversion
+- ✅ Efficient DataLoader usage
+- ✅ Proper train/validation/test splits
 
 ## Performance
 
