@@ -1,4 +1,4 @@
-# IMDB Sentiment Analysis with PyTorch RNN
+# Movie Review Sentiment Analysis using RNN
 
 This project implements a Simple RNN for sentiment analysis on the IMDB movie reviews dataset using PyTorch, while still utilizing TensorFlow's IMDB dataset for data loading and preprocessing.
 
